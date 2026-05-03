@@ -2,3 +2,10 @@
 .env
 __pycache__/
 .vscode/
+# Data folders - ignore content but keep structure
+data/raw/*
+data/processed/*
+
+# Keep .gitkeep files
+!data/raw/.gitkeep
+!data/processed/.gitkeep

@@ -10,3 +10,9 @@ The goal is to develop a data pipeline that integrates real-time flight schedule
 - **Predictive Accuracy:** Merging environmental and social data for better forecasting.
 - **Explainability:** Providing context for delays (e.g., "predicted delay due to weather + airport staff strike").
 - **Innovation:** Using RAG (Retrieval Augmented Generation) to query technical news context.
+
+## 4. Technical Stack
+- **Languages:** Python 3.11
+- **APIs:** AviationStack, OpenWeather, NewsAPI
+- **ML Ops:** MLflow, Docker
+- **Frontend:** Streamlit
